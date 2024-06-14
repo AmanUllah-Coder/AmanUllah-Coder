@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Aman Ullah
-#### Full Stack Web Developer
+## Hi there 👋, I'm Aman Ullah
+### Full Stack Web Developer
 ![Full Stack Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm a Full Stack Developer specializing in the MERN Stack (MongoDB, Express.js, React.js, Node.js). I enjoy creating efficient and scalable web applications.
