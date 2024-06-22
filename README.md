@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **people learn Web Development.**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **JavaScript, React, Node.js,Express.js, MongoDB**
 
 - 📫 How to reach me **amanullah599420@gmail.com**
 
