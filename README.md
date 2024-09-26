@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aman Ullah</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-<p align="center">I am a skilled Full Stack Developer with expertise in the MERN stack (MongoDB, Express, React, Node.js). I specialize in creating dynamic, responsive web applications with a focus on user experience and performance. With strong problem-solving abilities and a passion for continuous learning, I am dedicated to building efficient, scalable solutions that meet clients' needs and exceed expectations.</p>
+<p align="center">I am a skilled Full Stack Developer with expertise in the MERN Stack (MongoDB, Express, React, Node.js). I specialize in creating dynamic, responsive web applications with a focus on user experience and performance. With strong problem-solving abilities and a passion for continuous learning, I am dedicated to building efficient, scalable solutions that meet clients' needs and exceed expectations.</p>
 <br> 
-
 
 
 - 🔭 I’m currently working on **Full Stack Web Development**
@@ -16,7 +15,7 @@
 
 - 💬 Ask me about **JavaScript, React.js, Node.js, Express.js, MongoDB**
 
-- 📫 How to reach me **amanullah599420@gmail.com**
+- 📫 How to reach me **amanullah.coder@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
