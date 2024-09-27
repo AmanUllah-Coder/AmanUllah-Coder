@@ -31,8 +31,6 @@
 <br> <br> 
 
 # 📊 GitHub Stats:
-<p>
-![](https://github-readme-stats.vercel.app/api?username=amanullah-coder&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)</p><br/>
-
-<p>![](https://github-readme-streak-stats.herokuapp.com/?user=amanullah-coder&theme=nightowl&hide_border=false)</p><br/>
-<p>![](https://github-readme-stats.vercel.app/api/top-langs/?username=amanullah-coder&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</p>
+![](https://github-readme-stats.vercel.app/api?username=amanullah-coder&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=amanullah-coder&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amanullah-coder&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
