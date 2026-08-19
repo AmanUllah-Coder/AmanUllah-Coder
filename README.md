@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Full Stack Software Engineering**
 
-- 🌱 I’m currently learning **AI/ML**
+- 🌱 I’m currently learning **Artificial Intelligence & Machine Learning Engineering**
 
 - 👯 I’m looking to collaborate on **GitHub**
 
