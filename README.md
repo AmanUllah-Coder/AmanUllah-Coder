@@ -5,13 +5,13 @@
 <br> 
 
 
-- 🔭 I’m currently working on **Full Stack Web Development**
+- 🔭 I’m currently working on **Full Stack Software Engineering**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **AI/ML**
 
 - 👯 I’m looking to collaborate on **GitHub**
 
-- 🤝 I’m looking for help with **people learn Web Development.**
+- 🤝 I’m looking for help with **people learn Software Engineering.**
 
 - 💬 Ask me about **JavaScript, React.js, Node.js, Express.js, MongoDB**
 
